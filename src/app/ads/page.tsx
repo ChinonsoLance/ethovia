@@ -88,7 +88,7 @@ export default function AdsPage() {
               className="text-5xl sm:text-6xl md:text-7xl font-extrabold mb-8 leading-[1.1] tracking-tight"
             >
               Stop Wasting Money On <br className="hidden md:block" />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-secondary via-accent to-secondary animate-gradient-x">
+              <span className="text-gradient">
                 Facebook & Instagram Ads
               </span>{" "}
               <br className="hidden md:block" />
@@ -276,7 +276,7 @@ export default function AdsPage() {
             <div className="text-center space-y-4">
               <h2 className="text-4xl md:text-5xl font-extrabold text-white">
                 However, this Free Audit <br className="hidden md:block" />
-                <span className="text-white/50">Isn’t for Everyone.</span>
+                <span className="text-gradient">Isn’t for Everyone.</span>
               </h2>
               <p className="text-xl text-white/80 max-w-2xl mx-auto pt-4">
                 Ethovia’s Ad Account & CRO Audit is exclusively for:
